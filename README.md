@@ -4,7 +4,7 @@ IP地理位置获取。支持获取IPv4、IPv6地址信息。包括：国家、�
 
 国内数据使用纯真IPV4库，结合淘宝,ipip 补齐城市数据，并打包为mmdb格式  
 
-https://ip.aknife.cn/
+测试地址：https://ip.aknife.cn/
 
 
 ## 安装
