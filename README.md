@@ -84,6 +84,6 @@ IpInfo::find('2402:4e00:1013:e500:0:940e:29d7:3443','full');
 
 ## IP库来源
 
-- 国内IPv4地址来自(qqwry.dat - 2022-06-01) [cz88.net](https://cz88.net/)
+- 国内IPv4地址来自(qqwry.dat - 2022-06-08) [cz88.net](https://cz88.net/)
 - 国内IPv6地址来自(ipv6wry.db - 2021-07-21) [ZX-Inc/zxipdb-python](https://github.com/ZX-Inc/zxipdb-python)
-- 国外IP城市信息来自(GeoLite2-City.mmdb - 2022-06-03)  [maxmind.com](https://www.maxmind.com/)
+- 国外IP城市信息来自(GeoLite2-City.mmdb - 2022-06-07)  [maxmind.com](https://www.maxmind.com/)
