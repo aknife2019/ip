@@ -32,7 +32,7 @@ class IpInfo {
         $location = $reader->get($ip);
         $reader->close();
 
-        if( $language && $location['continent'][$language] ){
+        if( $language && isset($location['continent'][$language]) ){
             $location = [
                 'continent' => [
                     'code'  =>  $location['continent']['code'],
