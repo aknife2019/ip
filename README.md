@@ -2,7 +2,7 @@
 
 IP地理位置获取。支持获取IPv4、IPv6地址信息。包括：国家、省份、城市。  
 
-国内数据使用纯真IPV4库，结合淘宝,ipip 补齐城市数据，并打包为mmdb格式  
+国内数据使用纯真IPV4库，结合 ipip,ip138 API 补齐国内空白城市数据，并打包为mmdb格式  
 
 测试地址：https://ip.aknife.cn/
 
@@ -87,6 +87,6 @@ IpInfo::find('2402:4e00:1013:e500:0:940e:29d7:3443','full');
 
 ## IP库来源
 
-- 国内IPv4地址来自(qqwry.dat - 2023-11-15) [cz88.net](https://cz88.net/)
+- 国内IPv4地址来自(qqwry.dat - 2024-04-24) [cz88.net](https://cz88.net/)
 - 国内IPv6地址来自(ipv6wry.db - 2021-07-21) [ZX-Inc/zxipdb-python](https://github.com/ZX-Inc/zxipdb-python)
-- 国外IP城市信息来自(GeoLite2-City.mmdb - 2023-11-15)  [maxmind.com](https://www.maxmind.com/)
+- 国外IP城市信息来自(GeoLite2-City.mmdb - 2024-04-26)  [maxmind.com](https://www.maxmind.com/)
